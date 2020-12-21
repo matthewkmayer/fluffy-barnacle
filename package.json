@@ -1,0 +1,11 @@
+{
+  "name": "fluffy-barnacle",
+  "description": "Testing",
+  "dependencies": {
+    "glob": "^7.1.6"
+  },
+  "engines": {
+    "node": ">= 10"
+  },
+  "version": "1.0.0"
+}
