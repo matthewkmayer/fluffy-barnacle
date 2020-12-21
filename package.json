@@ -2,7 +2,7 @@
   "name": "fluffy-barnacle",
   "description": "Testing",
   "dependencies": {
-    "glob": "^7.1.6"
+    "glob": "^5.0.15"
   },
   "engines": {
     "node": ">= 10"
